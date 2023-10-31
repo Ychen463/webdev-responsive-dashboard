@@ -8,6 +8,6 @@
 - Incorporated JavaScript to add interactivity, including dynamic updates of sales data.
 - Managed the project using Git, ensuring regular commits and updates for efficient version control.
 
-Check My [DEMO](https://ychen463.github.io/webdev-responsive-dashboard/)!
+Check [demo](https://ychen463.github.io/webdev-responsive-dashboard/) here!
 
 ![alt text](./dashboard.gif)
